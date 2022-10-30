@@ -3,7 +3,7 @@ num1 = 1
 num2 = 1
 print(num1)
 print(num2)
-while count <= 20:
+while count <= 18:
   new = num1+num2
   print(new)
   num1 = num2
